@@ -1,6 +1,4 @@
-
 import inquirer from "inquirer";
-
 const currancy: any = {
   USD: 1, // Base currency
   EUR: 0.91,

@@ -1,5 +1,5 @@
 {
-  "name": "ii_currency_converter",
+  "name": "currency_converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
